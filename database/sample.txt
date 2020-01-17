@@ -1,0 +1,36 @@
+HomeAdvisor is looking for a senior-level Developer to join our Software Development team. In general, we are looking for someone who has experience working on public-facing web properties, and being part of a fast-paced, fun-loving team. Our environment can be fun, loose, iterative, and even chaotic at times - you've been warned.
+
+What you will be doing:
+Code every day in HTML, CSS, and to make our site highly interactive
+Integrate client-side code with web services, social platforms, and our Java-based infrastructure
+Produce pixel-perfect layouts and sites from mock-ups provided by key business partners in Creative Design, UX/UI, and Product Development
+Work on progressive redesign and maintenance projects that have an immediate impact on how our customers experience our brand every day
+
+Why we think you'll like working here:
+HomeAdvisor.com is the industry-leading online marketplace connecting homeowners to pre-qualified home improvement resources in their area - a homeowner turns to HomeAdvisor every 5 seconds for help.
+We're one of Denver's largest internet companies, and our employees have voted us to the Denver Post's list of Top Workplaces for 5 years running.
+You have a direct impact on our customer experience every single day.
+We're not afraid to make mistakes, and figure out how we can be better in time for the next release.
+
+Qualifications
+
+3+ years of experience with the following:
+HTML and CSS
+Basic Photoshop skills
+Cross-browser functionality testing
+Experience with Version Control (Git, SVN, CVS, etc.)
+
+Bonus Points for:
+Data-binding frameworks like Angular.js and Backbone
+JS Module patterns
+AJAX
+Server-side templating frameworks
+JSTL
+Pug/Jade
+LESS or SASS/SCSS
+Experience with Grunt/Gulp
+Mobile Web Development
+
+If you have a passion for clean, easily maintained front-end code and a desire to make an impact on customer experience, we think you’ll be in good company here at HomeAdvisor. Send us your resume so we can chat.
+
+If you're interested in a career with us, we'd love to talk. If you have questions about any of our roles, talk with one of our Recruiters by signing up for our next chat: http://www.abouthomeadvisor.com/talk-to-us/
